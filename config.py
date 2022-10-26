@@ -1,0 +1,1 @@
+TOKEN, NAME = "СЕКРЕТ", "SF_Insannne_T_bot";    #пароль (токен) и имя
